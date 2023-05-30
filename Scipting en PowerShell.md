@@ -13,4 +13,4 @@ Hacemos uso de scripts en powershell, los cuales nos ayudan a realizar escaneos 
 **scan_alivev2.ps1**: Este script obtiene la puerta de enlace y el rango de subred para así después buscar los puertos abiertos y así verifica la conexión.
 
 
-**scan_portv1.ps1**: Por último, este script permite escanear y validar la disponibilidad de hosts en una subred, y detectar puertos abiertos en una dirección ip. 
+**scan_portv1.ps1**: Por último, este script permite escanear y validar la disponibilidad de hosts en una subred, y detectar puertos abiertos en una dirección ip.
